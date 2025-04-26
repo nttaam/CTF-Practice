@@ -1,6 +1,5 @@
 # File Inclusion
 
-(Bài này sẽ chỉ nói riêng về php )
 
 # 1. Tổng quan
 
